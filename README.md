@@ -1,6 +1,9 @@
 # README
 
 ## Server side for MyBlog App.
+This app is for blog posting. The app has user, post, and comments.
+User can create simple account through sign up process. Only need ID and PW.
+User can create their own posts and comments. Also, modify and delete their own.
 
 ### Plan
 - Model
