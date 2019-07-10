@@ -2,7 +2,7 @@
 
 ## Server side for MyBlog App.
 
-* Plan
+### Plan
 - Model
   - User
   - Post
