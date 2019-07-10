@@ -7,11 +7,11 @@ User can create their own posts and comments. Also, modify and delete their own.
 
 ### Plan
 - Model
-  - User
-  - Post
-  - Comment
-  - UserPost
-  - PostComment
+  - User - name, ID, PW
+  - Post - ID, user_id, title, content
+  - Comment - ID, post_id, user_id, comment
+  - (UserPost)
+  - (PostComment)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
