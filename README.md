@@ -3,7 +3,12 @@
 ## Server side for MyBlog App.
 
 * Plan
--
+- Model
+  - User
+  - Post
+  - Comment
+  - UserPost
+  - PostComment
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
